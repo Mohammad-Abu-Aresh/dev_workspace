@@ -1,0 +1,113 @@
+.:
+total 4
+drwxr-xr-x.  6 mabu-are mabu-are   89 Sep 30 19:38 .
+drwx------  26 mabu-are mabu-are 4096 Sep 30 19:32 ..
+drwxr-xr-x.  2 mabu-are mabu-are    6 Sep 30 19:33 archives
+drwxr-xr-x.  6 mabu-are mabu-are  103 Sep 30 19:32 .git
+drwxr-xr-x.  3 mabu-are mabu-are   17 Sep 30 19:34 projects
+drwxr-xr-x.  2 mabu-are mabu-are    6 Sep 30 19:33 tools
+-rw-r--r--.  1 mabu-are mabu-are    0 Sep 30 19:38 tree_structure.txt
+
+./archives:
+total 0
+drwxr-xr-x. 2 mabu-are mabu-are  6 Sep 30 19:33 .
+drwxr-xr-x. 6 mabu-are mabu-are 89 Sep 30 19:38 ..
+
+./.git:
+total 16
+drwxr-xr-x. 6 mabu-are mabu-are  103 Sep 30 19:32 .
+drwxr-xr-x. 6 mabu-are mabu-are   89 Sep 30 19:38 ..
+-rw-r--r--. 1 mabu-are mabu-are  272 Sep 30 19:32 config
+-rw-r--r--. 1 mabu-are mabu-are   73 Sep 30 19:32 description
+-rw-r--r--. 1 mabu-are mabu-are   21 Sep 30 19:32 HEAD
+drwxr-xr-x. 2 mabu-are mabu-are 4096 Sep 30 19:32 hooks
+drwxr-xr-x. 2 mabu-are mabu-are   21 Sep 30 19:32 info
+drwxr-xr-x. 4 mabu-are mabu-are   30 Sep 30 19:32 objects
+drwxr-xr-x. 4 mabu-are mabu-are   31 Sep 30 19:32 refs
+
+./.git/hooks:
+total 68
+drwxr-xr-x. 2 mabu-are mabu-are 4096 Sep 30 19:32 .
+drwxr-xr-x. 6 mabu-are mabu-are  103 Sep 30 19:32 ..
+-rwxr-xr-x. 1 mabu-are mabu-are  482 Sep 30 19:32 applypatch-msg.sample
+-rwxr-xr-x. 1 mabu-are mabu-are 1976 Sep 30 19:32 commit-msg.sample
+-rwxr-xr-x. 1 mabu-are mabu-are 4611 Sep 30 19:32 fsmonitor-watchman.sample
+-rwxr-xr-x. 1 mabu-are mabu-are  193 Sep 30 19:32 post-update.sample
+-rwxr-xr-x. 1 mabu-are mabu-are  428 Sep 30 19:32 pre-applypatch.sample
+-rwxr-xr-x. 1 mabu-are mabu-are 1653 Sep 30 19:32 pre-commit.sample
+-rwxr-xr-x. 1 mabu-are mabu-are  420 Sep 30 19:32 pre-merge-commit.sample
+-rwxr-xr-x. 1 mabu-are mabu-are 1496 Sep 30 19:32 prepare-commit-msg.sample
+-rwxr-xr-x. 1 mabu-are mabu-are 1378 Sep 30 19:32 pre-push.sample
+-rwxr-xr-x. 1 mabu-are mabu-are 4902 Sep 30 19:32 pre-rebase.sample
+-rwxr-xr-x. 1 mabu-are mabu-are  548 Sep 30 19:32 pre-receive.sample
+-rwxr-xr-x. 1 mabu-are mabu-are 2787 Sep 30 19:32 push-to-checkout.sample
+-rwxr-xr-x. 1 mabu-are mabu-are 2312 Sep 30 19:32 sendemail-validate.sample
+-rwxr-xr-x. 1 mabu-are mabu-are 3654 Sep 30 19:32 update.sample
+
+./.git/info:
+total 4
+drwxr-xr-x. 2 mabu-are mabu-are  21 Sep 30 19:32 .
+drwxr-xr-x. 6 mabu-are mabu-are 103 Sep 30 19:32 ..
+-rw-r--r--. 1 mabu-are mabu-are 240 Sep 30 19:32 exclude
+
+./.git/objects:
+total 0
+drwxr-xr-x. 4 mabu-are mabu-are  30 Sep 30 19:32 .
+drwxr-xr-x. 6 mabu-are mabu-are 103 Sep 30 19:32 ..
+drwxr-xr-x. 2 mabu-are mabu-are   6 Sep 30 19:32 info
+drwxr-xr-x. 2 mabu-are mabu-are   6 Sep 30 19:32 pack
+
+./.git/objects/info:
+total 0
+drwxr-xr-x. 2 mabu-are mabu-are  6 Sep 30 19:32 .
+drwxr-xr-x. 4 mabu-are mabu-are 30 Sep 30 19:32 ..
+
+./.git/objects/pack:
+total 0
+drwxr-xr-x. 2 mabu-are mabu-are  6 Sep 30 19:32 .
+drwxr-xr-x. 4 mabu-are mabu-are 30 Sep 30 19:32 ..
+
+./.git/refs:
+total 0
+drwxr-xr-x. 4 mabu-are mabu-are  31 Sep 30 19:32 .
+drwxr-xr-x. 6 mabu-are mabu-are 103 Sep 30 19:32 ..
+drwxr-xr-x. 2 mabu-are mabu-are   6 Sep 30 19:32 heads
+drwxr-xr-x. 2 mabu-are mabu-are   6 Sep 30 19:32 tags
+
+./.git/refs/heads:
+total 0
+drwxr-xr-x. 2 mabu-are mabu-are  6 Sep 30 19:32 .
+drwxr-xr-x. 4 mabu-are mabu-are 31 Sep 30 19:32 ..
+
+./.git/refs/tags:
+total 0
+drwxr-xr-x. 2 mabu-are mabu-are  6 Sep 30 19:32 .
+drwxr-xr-x. 4 mabu-are mabu-are 31 Sep 30 19:32 ..
+
+./projects:
+total 0
+drwxr-xr-x. 3 mabu-are mabu-are 17 Sep 30 19:34 .
+drwxr-xr-x. 6 mabu-are mabu-are 89 Sep 30 19:38 ..
+drwxr-xr-x. 4 mabu-are mabu-are 37 Sep 30 19:34 web
+
+./projects/web:
+total 0
+drwxr-xr-x. 4 mabu-are mabu-are 37 Sep 30 19:34 .
+drwxr-xr-x. 3 mabu-are mabu-are 17 Sep 30 19:34 ..
+drwxr-xr-x. 2 mabu-are mabu-are  6 Sep 30 19:34 backend
+drwxr-xr-x. 2 mabu-are mabu-are  6 Sep 30 19:34 frontend
+
+./projects/web/backend:
+total 0
+drwxr-xr-x. 2 mabu-are mabu-are  6 Sep 30 19:34 .
+drwxr-xr-x. 4 mabu-are mabu-are 37 Sep 30 19:34 ..
+
+./projects/web/frontend:
+total 0
+drwxr-xr-x. 2 mabu-are mabu-are  6 Sep 30 19:34 .
+drwxr-xr-x. 4 mabu-are mabu-are 37 Sep 30 19:34 ..
+
+./tools:
+total 0
+drwxr-xr-x. 2 mabu-are mabu-are  6 Sep 30 19:33 .
+drwxr-xr-x. 6 mabu-are mabu-are 89 Sep 30 19:38 ..
