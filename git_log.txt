@@ -1,0 +1,5 @@
+commit bb9f828ffdaf997f2cb8a675f3cd94ae19d9d57c
+Author: Mohammad Abu aresh <mhamadaresh@gmail.com>
+Date:   Wed Sep 30 20:03:48 2026 +0300
+
+    add: adding my empty hello.txt file
